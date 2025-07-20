@@ -1,4 +1,4 @@
-import MapView from './components/MapView';
+import MapView from './Components/MapView';
 
 function App() {
   return (
